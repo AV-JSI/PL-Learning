@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+<HTML>
+  <head>
+    <title>PL-Learning</title>
+  </head>
+  <body>
+    <div id="C1">
+      <h1>Hola. Bienvenidas y bienvenidos!</h1>
+      <p>Empecemos a prácticar.</p>
+    </div>
+  </body>  
+</HTML>
